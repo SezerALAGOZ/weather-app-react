@@ -9,10 +9,10 @@ function Content() {
 
     const {city, weatherData, setWeatherData, Cities} = useContext(WeatherContext);
 
-    const isCity = Cities.find(item => item.name === city.toUpperCase())
+    const isCity = Cities.find(item => item.name === city.toLowerCase())
 
-    const long =  isCity ? Cities.find(item => item.name === city.toUpperCase()).long : '';
-    const lat = isCity ? Cities.find(item => item.name === city.toUpperCase()).lat : '';
+    const long =  isCity ? Cities.find(item => item.name === city.toLowerCase()).long : '';
+    const lat = isCity ? Cities.find(item => item.name === city.toLowerCase()).lat : '';
     const API_Key = process.env.REACT_APP_API_KEY;
     const apiUrl = `https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${long}&exclude=current,minutely,hourly,alerts&appid=${API_Key}`;
 

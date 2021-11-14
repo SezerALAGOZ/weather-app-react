@@ -5,7 +5,7 @@ import Cities from '../Context/data.json';
 const WeatherContext = createContext();
 
 export const WeatherProvider = ({ children }) => {
-    const [city, setCity] = useState('İSTANBUL');
+    const [city, setCity] = useState('istanbul');
     const [weatherData, setWeatherData] = useState();
     const values = {
         city,

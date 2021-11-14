@@ -24,7 +24,7 @@ function Header() {
           />
         </form>
       </div>
-      <div id="city-name">{city}</div>
+      <div id="city-name">{city.toUpperCase()}</div>
     </div>
   );
 }

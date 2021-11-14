@@ -1,7 +1,7 @@
 [
   {
     "plaka": 1,
-    "name": "ADANA",
+    "name": "adana",
     "lat": 37,
     "long": 35.3213333,
     "northeast_lat": 37.072004,
@@ -11,7 +11,7 @@
   },
   {
     "plaka": 2,
-    "name": "ADIYAMAN",
+    "name": "adıyaman",
     "lat": 37.7641667,
     "long": 38.2761667,
     "northeast_lat": 37.825667,
@@ -21,7 +21,7 @@
   },
   {
     "plaka": 3,
-    "name": "AFYONKARAHİSAR",
+    "name": "afyonkarahisar",
     "lat": 38.76376,
     "long": 30.54034,
     "northeast_lat": 38.802105,
@@ -31,7 +31,7 @@
   },
   {
     "plaka": 4,
-    "name": "AĞRI",
+    "name": "ağrı",
     "lat": 39.7216667,
     "long": 43.0566667,
     "northeast_lat": 39.748605,
@@ -41,7 +41,7 @@
   },
   {
     "plaka": 5,
-    "name": "AMASYA",
+    "name": "amasya",
     "lat": 40.65,
     "long": 35.8333333,
     "northeast_lat": 40.672834,
@@ -51,7 +51,7 @@
   },
   {
     "plaka": 6,
-    "name": "ANKARA",
+    "name": "ankara",
     "lat": 39.92077,
     "long": 32.85411,
     "northeast_lat": 40.100981,
@@ -61,7 +61,7 @@
   },
   {
     "plaka": 7,
-    "name": "ANTALYA",
+    "name": "antalya",
     "lat": 36.88414,
     "long": 30.70563,
     "northeast_lat": 36.975178,
@@ -71,7 +71,7 @@
   },
   {
     "plaka": 8,
-    "name": "ARTVİN",
+    "name": "artvin",
     "lat": 41.1833333,
     "long": 41.8166667,
     "northeast_lat": 41.207078,
@@ -81,7 +81,7 @@
   },
   {
     "plaka": 9,
-    "name": "AYDIN",
+    "name": "aydın",
     "lat": 37.8444,
     "long": 27.8458,
     "northeast_lat": 37.870997,
@@ -91,7 +91,7 @@
   },
   {
     "plaka": 10,
-    "name": "BALIKESİR",
+    "name": "balıkesir",
     "lat": 39.648369,
     "long": 27.88261,
     "northeast_lat": 39.693666,
@@ -101,7 +101,7 @@
   },
   {
     "plaka": 11,
-    "name": "BİLECİK",
+    "name": "bilecik",
     "lat": 40.150131,
     "long": 29.983061,
     "northeast_lat": 40.197617,
@@ -111,7 +111,7 @@
   },
   {
     "plaka": 12,
-    "name": "BİNGÖL",
+    "name": "bingöl",
     "lat": 38.885349,
     "long": 40.498291,
     "northeast_lat": 38.897963,
@@ -121,7 +121,7 @@
   },
   {
     "plaka": 13,
-    "name": "BİTLİS",
+    "name": "bitlis",
     "lat": 38.4,
     "long": 42.1166667,
     "northeast_lat": 38.453638,
@@ -131,7 +131,7 @@
   },
   {
     "plaka": 14,
-    "name": "BOLU",
+    "name": "bolu",
     "lat": 40.739479,
     "long": 31.611561,
     "northeast_lat": 40.758004,
@@ -141,7 +141,7 @@
   },
   {
     "plaka": 15,
-    "name": "BURDUR",
+    "name": "burdur",
     "lat": 37.726909,
     "long": 30.288876,
     "northeast_lat": 37.76375,
@@ -151,7 +151,7 @@
   },
   {
     "plaka": 16,
-    "name": "BURSA",
+    "name": "bursa",
     "lat": 40.18257,
     "long": 29.06687,
     "northeast_lat": 40.297194,
@@ -161,7 +161,7 @@
   },
   {
     "plaka": 17,
-    "name": "ÇANAKKALE",
+    "name": "çanakkale",
     "lat": 40.155312,
     "long": 26.41416,
     "northeast_lat": 40.199462,
@@ -171,7 +171,7 @@
   },
   {
     "plaka": 18,
-    "name": "ÇANKIRI",
+    "name": "çankırı",
     "lat": 40.6,
     "long": 33.6166667,
     "northeast_lat": 40.655159,
@@ -181,7 +181,7 @@
   },
   {
     "plaka": 19,
-    "name": "ÇORUM",
+    "name": "çorum",
     "lat": 40.5505556,
     "long": 34.9555556,
     "northeast_lat": 40.609317,
@@ -191,7 +191,7 @@
   },
   {
     "plaka": 20,
-    "name": "DENİZLİ",
+    "name": "denizli",
     "lat": 37.77652,
     "long": 29.08639,
     "northeast_lat": 37.847366,
@@ -201,7 +201,7 @@
   },
   {
     "plaka": 21,
-    "name": "DİYARBAKIR",
+    "name": "diyarbakır",
     "lat": 37.91441,
     "long": 40.230629,
     "northeast_lat": 37.976174,
@@ -211,7 +211,7 @@
   },
   {
     "plaka": 22,
-    "name": "EDİRNE",
+    "name": "edirne",
     "lat": 41.6666667,
     "long": 26.5666667,
     "northeast_lat": 41.697939,
@@ -221,7 +221,7 @@
   },
   {
     "plaka": 23,
-    "name": "ELAZIĞ",
+    "name": "elazığ",
     "lat": 38.680969,
     "long": 39.226398,
     "northeast_lat": 38.713568,
@@ -231,7 +231,7 @@
   },
   {
     "plaka": 24,
-    "name": "ERZİNCAN",
+    "name": "erzincan",
     "lat": 39.75,
     "long": 39.5,
     "northeast_lat": 39.769164,
@@ -241,7 +241,7 @@
   },
   {
     "plaka": 25,
-    "name": "ERZURUM",
+    "name": "erzurum",
     "lat": 39.9043189,
     "long": 41.2678853,
     "northeast_lat": 39.954533,
@@ -251,7 +251,7 @@
   },
   {
     "plaka": 26,
-    "name": "ESKİŞEHİR",
+    "name": "eskişehir",
     "lat": 39.784302,
     "long": 30.51922,
     "northeast_lat": 39.816793,
@@ -261,7 +261,7 @@
   },
   {
     "plaka": 27,
-    "name": "GAZİANTEP",
+    "name": "gaziantep",
     "lat": 37.06622,
     "long": 37.38332,
     "northeast_lat": 37.113722,
@@ -271,7 +271,7 @@
   },
   {
     "plaka": 28,
-    "name": "GİRESUN",
+    "name": "giresun",
     "lat": 40.912811,
     "long": 38.38953,
     "northeast_lat": 40.927995,
@@ -281,7 +281,7 @@
   },
   {
     "plaka": 29,
-    "name": "GÜMÜŞHANE",
+    "name": "gümüşhane",
     "lat": 40.4602778,
     "long": 39.4813889,
     "northeast_lat": 40.471359,
@@ -291,7 +291,7 @@
   },
   {
     "plaka": 30,
-    "name": "HAKKARİ",
+    "name": "hakkari",
     "lat": 37.5833333,
     "long": 43.7333333,
     "northeast_lat": 37.601656,
@@ -301,7 +301,7 @@
   },
   {
     "plaka": 31,
-    "name": "HATAY",
+    "name": "hatay",
     "lat": 36.4018488,
     "long": 36.3498097,
     "northeast_lat": 37.014921,
@@ -311,7 +311,7 @@
   },
   {
     "plaka": 32,
-    "name": "ISPARTA",
+    "name": "ısparta",
     "lat": 37.7666667,
     "long": 30.55,
     "northeast_lat": 37.830719,
@@ -321,7 +321,7 @@
   },
   {
     "plaka": 33,
-    "name": "MERSİN",
+    "name": "mersin",
     "lat": 36.8,
     "long": 34.6333333,
     "northeast_lat": 36.878272,
@@ -331,7 +331,7 @@
   },
   {
     "plaka": 34,
-    "name": "İSTANBUL",
+    "name": "istanbul",
     "lat": 41.00527,
     "long": 28.97696,
     "northeast_lat": 41.320786,
@@ -341,7 +341,7 @@
   },
   {
     "plaka": 35,
-    "name": "İZMİR",
+    "name": "izmir",
     "lat": 38.41885,
     "long": 27.12872,
     "northeast_lat": 38.506773,
@@ -351,7 +351,7 @@
   },
   {
     "plaka": 36,
-    "name": "KARS",
+    "name": "kars",
     "lat": 40.59267,
     "long": 43.077831,
     "northeast_lat": 40.624843,
@@ -361,7 +361,7 @@
   },
   {
     "plaka": 37,
-    "name": "KASTAMONU",
+    "name": "kastamonu",
     "lat": 41.38871,
     "long": 33.78273,
     "northeast_lat": 41.436059,
@@ -371,7 +371,7 @@
   },
   {
     "plaka": 38,
-    "name": "KAYSERİ",
+    "name": "kayseri",
     "lat": 38.7333333,
     "long": 35.4833333,
     "northeast_lat": 38.818797,
@@ -381,7 +381,7 @@
   },
   {
     "plaka": 39,
-    "name": "KIRKLARELİ",
+    "name": "kırklareli",
     "lat": 41.7333333,
     "long": 27.2166667,
     "northeast_lat": 41.760054,
@@ -391,7 +391,7 @@
   },
   {
     "plaka": 40,
-    "name": "KIRŞEHİR",
+    "name": "kırşehir",
     "lat": 39.15,
     "long": 34.1666667,
     "northeast_lat": 39.203939,
@@ -401,7 +401,7 @@
   },
   {
     "plaka": 41,
-    "name": "KOCAELİ",
+    "name": "kocaeli",
     "lat": 40.8532704,
     "long": 29.8815203,
     "northeast_lat": 41.20976,
@@ -411,7 +411,7 @@
   },
   {
     "plaka": 42,
-    "name": "KONYA",
+    "name": "konya",
     "lat": 37.8666667,
     "long": 32.4833333,
     "northeast_lat": 38.05063,
@@ -421,7 +421,7 @@
   },
   {
     "plaka": 43,
-    "name": "KÜTAHYA",
+    "name": "kütahya",
     "lat": 39.4166667,
     "long": 29.9833333,
     "northeast_lat": 39.442718,
@@ -431,7 +431,7 @@
   },
   {
     "plaka": 44,
-    "name": "MALATYA",
+    "name": "malatya",
     "lat": 38.35519,
     "long": 38.30946,
     "northeast_lat": 38.397559,
@@ -441,7 +441,7 @@
   },
   {
     "plaka": 45,
-    "name": "MANİSA",
+    "name": "manisa",
     "lat": 38.619099,
     "long": 27.428921,
     "northeast_lat": 38.642289,
@@ -451,7 +451,7 @@
   },
   {
     "plaka": 46,
-    "name": "KAHRAMANMARAŞ",
+    "name": "kahramanmaraş",
     "lat": 37.5833333,
     "long": 36.9333333,
     "northeast_lat": 37.605261,
@@ -461,7 +461,7 @@
   },
   {
     "plaka": 47,
-    "name": "MARDİN",
+    "name": "mardin",
     "lat": 37.3122361,
     "long": 40.735112,
     "northeast_lat": 37.330554,
@@ -471,7 +471,7 @@
   },
   {
     "plaka": 48,
-    "name": "MUĞLA",
+    "name": "muğla",
     "lat": 37.2152778,
     "long": 28.3636111,
     "northeast_lat": 37.22581,
@@ -481,7 +481,7 @@
   },
   {
     "plaka": 49,
-    "name": "MUŞ",
+    "name": "muş",
     "lat": 38.7432926,
     "long": 41.5064823,
     "northeast_lat": 38.783503,
@@ -491,7 +491,7 @@
   },
   {
     "plaka": 50,
-    "name": "NEVŞEHİR",
+    "name": "nevşehir",
     "lat": 38.62442,
     "long": 34.723969,
     "northeast_lat": 38.684107,
@@ -501,7 +501,7 @@
   },
   {
     "plaka": 51,
-    "name": "NİĞDE",
+    "name": "niğde",
     "lat": 37.9666667,
     "long": 34.6833333,
     "northeast_lat": 37.979913,
@@ -511,7 +511,7 @@
   },
   {
     "plaka": 52,
-    "name": "ORDU",
+    "name": "ordu",
     "lat": 40.9833333,
     "long": 37.8833333,
     "northeast_lat": 41.02034,
@@ -521,7 +521,7 @@
   },
   {
     "plaka": 53,
-    "name": "RİZE",
+    "name": "rize",
     "lat": 41.02005,
     "long": 40.523449,
     "northeast_lat": 41.046492,
@@ -531,7 +531,7 @@
   },
   {
     "plaka": 54,
-    "name": "SAKARYA",
+    "name": "sakarya",
     "lat": 40.7568793,
     "long": 30.378138,
     "northeast_lat": 40.825518,
@@ -541,7 +541,7 @@
   },
   {
     "plaka": 55,
-    "name": "SAMSUN",
+    "name": "samsun",
     "lat": 41.292782,
     "long": 36.33128,
     "northeast_lat": 41.344134,
@@ -551,7 +551,7 @@
   },
   {
     "plaka": 56,
-    "name": "SİİRT",
+    "name": "siirt",
     "lat": 37.94429,
     "long": 41.93288,
     "northeast_lat": 37.95594,
@@ -561,7 +561,7 @@
   },
   {
     "plaka": 57,
-    "name": "SİNOP",
+    "name": "sinop",
     "lat": 42.0264222,
     "long": 35.1550745,
     "northeast_lat": 42.032135,
@@ -571,7 +571,7 @@
   },
   {
     "plaka": 58,
-    "name": "SİVAS",
+    "name": "sivas",
     "lat": 39.747662,
     "long": 37.017879,
     "northeast_lat": 39.783669,
@@ -581,7 +581,7 @@
   },
   {
     "plaka": 59,
-    "name": "TEKİRDAĞ",
+    "name": "tekirdağ",
     "lat": 40.9833333,
     "long": 27.5166667,
     "northeast_lat": 40.996723,
@@ -591,7 +591,7 @@
   },
   {
     "plaka": 60,
-    "name": "TOKAT",
+    "name": "tokat",
     "lat": 40.3166667,
     "long": 36.55,
     "northeast_lat": 40.358932,
@@ -601,7 +601,7 @@
   },
   {
     "plaka": 61,
-    "name": "TRABZON",
+    "name": "trabzon",
     "lat": 41,
     "long": 39.7333333,
     "northeast_lat": 41.01237,
@@ -611,7 +611,7 @@
   },
   {
     "plaka": 62,
-    "name": "TUNCELİ",
+    "name": "tunceli",
     "lat": 39.1079868,
     "long": 39.5401672,
     "northeast_lat": 39.113477,
@@ -621,7 +621,7 @@
   },
   {
     "plaka": 63,
-    "name": "ŞANLIURFA",
+    "name": "şanlıurfa",
     "lat": 37.15,
     "long": 38.8,
     "northeast_lat": 37.189639,
@@ -631,7 +631,7 @@
   },
   {
     "plaka": 64,
-    "name": "UŞAK",
+    "name": "uşak",
     "lat": 38.682301,
     "long": 29.40819,
     "northeast_lat": 38.71588,
@@ -641,7 +641,7 @@
   },
   {
     "plaka": 65,
-    "name": "VAN",
+    "name": "van",
     "lat": 38.4941667,
     "long": 43.38,
     "northeast_lat": 38.580314,
@@ -651,7 +651,7 @@
   },
   {
     "plaka": 66,
-    "name": "YOZGAT",
+    "name": "yozgat",
     "lat": 39.82,
     "long": 34.8044444,
     "northeast_lat": 39.838423,
@@ -661,7 +661,7 @@
   },
   {
     "plaka": 67,
-    "name": "ZONGULDAK",
+    "name": "zonguldak",
     "lat": 41.456409,
     "long": 31.798731,
     "northeast_lat": 41.480784,
@@ -671,7 +671,7 @@
   },
   {
     "plaka": 68,
-    "name": "AKSARAY",
+    "name": "aksaray",
     "lat": 38.36869,
     "long": 34.03698,
     "northeast_lat": 38.446724,
@@ -681,7 +681,7 @@
   },
   {
     "plaka": 69,
-    "name": "BAYBURT",
+    "name": "bayburt",
     "lat": 40.255169,
     "long": 40.22488,
     "northeast_lat": 40.272636,
@@ -691,7 +691,7 @@
   },
   {
     "plaka": 70,
-    "name": "KARAMAN",
+    "name": "karaman",
     "lat": 37.17593,
     "long": 33.228748,
     "northeast_lat": 37.229373,
@@ -701,7 +701,7 @@
   },
   {
     "plaka": 71,
-    "name": "KIRIKKALE",
+    "name": "kırıkkale",
     "lat": 39.846821,
     "long": 33.515251,
     "northeast_lat": 39.872843,
@@ -711,7 +711,7 @@
   },
   {
     "plaka": 72,
-    "name": "BATMAN",
+    "name": "batman",
     "lat": 37.881168,
     "long": 41.13509,
     "northeast_lat": 37.947274,
@@ -721,7 +721,7 @@
   },
   {
     "plaka": 73,
-    "name": "ŞIRNAK",
+    "name": "şırnak",
     "lat": 37.5163889,
     "long": 42.4611111,
     "northeast_lat": 37.533572,
@@ -731,7 +731,7 @@
   },
   {
     "plaka": 74,
-    "name": "BARTIN",
+    "name": "bartın",
     "lat": 41.6344444,
     "long": 32.3375,
     "northeast_lat": 41.656542,
@@ -741,7 +741,7 @@
   },
   {
     "plaka": 75,
-    "name": "ARDAHAN",
+    "name": "ardahan",
     "lat": 41.110481,
     "long": 42.702171,
     "northeast_lat": 41.121467,
@@ -751,7 +751,7 @@
   },
   {
     "plaka": 76,
-    "name": "IĞDIR",
+    "name": "ığdır",
     "lat": 39.9166667,
     "long": 44.0333333,
     "northeast_lat": 39.950163,
@@ -761,7 +761,7 @@
   },
   {
     "plaka": 77,
-    "name": "YALOVA",
+    "name": "yalova",
     "lat": 40.65,
     "long": 29.2666667,
     "northeast_lat": 40.66806,
@@ -771,7 +771,7 @@
   },
   {
     "plaka": 78,
-    "name": "KARABÜK",
+    "name": "karabük",
     "lat": 41.2,
     "long": 32.6333333,
     "northeast_lat": 41.238129,
@@ -781,7 +781,7 @@
   },
   {
     "plaka": 79,
-    "name": "KİLİS",
+    "name": "kilis",
     "lat": 36.718399,
     "long": 37.12122,
     "northeast_lat": 36.747819,
@@ -791,7 +791,7 @@
   },
   {
     "plaka": 80,
-    "name": "OSMANİYE",
+    "name": "osmaniye",
     "lat": 37.06805,
     "long": 36.261589,
     "northeast_lat": 37.104061,
@@ -801,7 +801,7 @@
   },
   {
     "plaka": 81,
-    "name": "DÜZCE",
+    "name": "düzce",
     "lat": 40.843849,
     "long": 31.15654,
     "northeast_lat": 40.891762,
