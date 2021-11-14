@@ -1,12 +1,14 @@
 import "./App.css";
 import { WeatherProvider } from "./Context/WeatherContext";
-import Deneme from "./components/Deneme";
+import Header from "./components/Header";
+import Content from "./components/Content";
 
 function App() {
   return (
     <WeatherProvider>
       <div className="App">
-        <Deneme />
+        <Header />
+        <Content />
       </div>
     </WeatherProvider>
   );

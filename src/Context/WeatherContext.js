@@ -1,17 +1,18 @@
 import { createContext, useState } from "react";
-import Sehirler from './data.json';
+import Cities from '../Context/data.json';
+
 
 const WeatherContext = createContext();
 
 export const WeatherProvider = ({ children }) => {
-    const [sehir, setSehir] = useState(Sehirler);
-    const [weatherData, setWeatherData] = useState([]);
+    const [city, setCity] = useState('');
+    const [weatherData, setWeatherData] = useState();
     const values = {
-        sehir,
-        setSehir,
+        city,
+        setCity,
         weatherData,
         setWeatherData,
-        Sehirler
+        Cities
     };
     return <WeatherContext.Provider value={values}>{children}</WeatherContext.Provider>;
 };
