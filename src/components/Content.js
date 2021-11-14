@@ -4,6 +4,7 @@ import { useContext } from 'react';
 import WeatherContext from '../Context/WeatherContext';
 
 function Content() {
+
     const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
     const {city, weatherData, setWeatherData, Cities} = useContext(WeatherContext);
@@ -24,23 +25,23 @@ function Content() {
     console.log(weatherData);
 
     return (
-        <div>
+        <div id="weather-content">
             {
                 weatherData && (
                     weatherData.map((item, index) => {
                         return (
-                            <div key={index}>
-                                <p>{days[new Date(item.dt * 1000).getDay()]}</p>
-                                <div>
+                            <div className="weather-card" key={index}>
+                                <p className="day-name">{days[new Date(item.dt * 1000).getDay()]}</p>
+                                <div className="weather-icon">
                                     <img 
                                         src={`https://openweathermap.org/img/wn/${item.weather[0].icon}@2x.png`}
                                         alt="icon"
                                     />
                                 </div>
-                                <div>
-                                    <p>{item.weather[0].description}</p>
-                                    <p>{(item.temp.max - 273.15).toFixed(0)}<sup>o</sup></p>
-                                    <p>{(item.temp.min - 273.15).toFixed(0)}<sup>o</sup></p>
+                                <div className="temperature-area">
+                                    <p className="weather-description">{item.weather[0].description}</p>
+                                    <p className="temperature max-temperature">{(item.temp.max - 273.15).toFixed(0)}<sup>o</sup></p>
+                                    <p className="temperature min-temperature">{(item.temp.min - 273.15).toFixed(0)}<sup>o</sup></p>
                                 </div>
                             </div>
                         )

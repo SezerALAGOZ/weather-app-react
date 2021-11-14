@@ -1,9 +1,96 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  padding: 0
+  padding: 0;
+  /* border: 1px solid red; */
 }
 
 body {
   background-color: aquamarine;
+}
+
+.App {
+  width: 85%;
+  margin: auto;
+  margin-top: 15vh;
+  background-color: rgb(236, 236, 236);
+  padding: 0 2em;
+}
+
+#header-area {
+  width: 100%;
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#header-area #input-area {
+  width: 40%;
+  margin-bottom: 1em;
+}
+#input-area input {
+  width: 100%;
+  padding: 0.5em 1em;
+  outline: none;
+  border: none;
+  border-radius: 20px;
+}
+#city-name {
+  line-height: 1em;
+  font-weight: bold;
+  color: rgb(26, 25, 25);
+  font-size: 2em;
+}
+
+#weather-content {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 3em;
+}
+
+#weather-content .weather-card:first-child {
+  border: 1px solid #000;
+}
+
+.weather-card .day-name {
+  background-color: crimson;
+  text-align: center;
+  padding: 5px 1.5em;
+  color: #fff;
+}
+
+.weather-icon {
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.weather-icon img {
+  box-shadow: 1px 1px 3px 0;
+}
+.temperature-area {
+  padding: 5px;
+}
+.weather-description {
+  text-align: center;
+  text-transform: capitalize;
+  color: rgb(150, 6, 6);
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.temperature {
+  font-weight: bold;
+  text-align: center;
+  padding: 0.2em;
+}
+.min-temperature {
+  font-style: italic;
+  opacity: 0.7;
+  font-size: 0.7em;
 }

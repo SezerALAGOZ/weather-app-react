@@ -13,16 +13,18 @@ function Header() {
   };
 
   return (
-    <div>
-      <form onSubmit={onInputChange}>
-        <input
-          id="cityInput"
-          type="search"
-          placeholder="Enter city name"
-          defaultValue=""
-        />
-      </form>
-      <div>{city}</div>
+    <div id="header-area">
+      <div id="input-area">
+        <form onSubmit={onInputChange}>
+          <input
+            id="cityInput"
+            type="search"
+            placeholder="Enter city name"
+            defaultValue=""
+          />
+        </form>
+      </div>
+      <div id="city-name">{city}</div>
     </div>
   );
 }
