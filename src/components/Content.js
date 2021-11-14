@@ -39,7 +39,8 @@ function Content() {
                                 </div>
                                 <div>
                                     <p>{item.weather[0].description}</p>
-                                    <p>{(item.temp.day - 273.15).toFixed(0)}<sup>o</sup></p>
+                                    <p>{(item.temp.max - 273.15).toFixed(0)}<sup>o</sup></p>
+                                    <p>{(item.temp.min - 273.15).toFixed(0)}<sup>o</sup></p>
                                 </div>
                             </div>
                         )
